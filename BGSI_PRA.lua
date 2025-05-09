@@ -1,3 +1,4 @@
+setfpscap(5)
 getgenv().Config = {
     ["Hatching"] = {
         ["Rifts"] = {
